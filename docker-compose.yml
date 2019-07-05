@@ -1,0 +1,5 @@
+version: '3'
+services:
+  service-two:
+    build: .
+    image: elvistj/service_two:latest
